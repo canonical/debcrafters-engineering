@@ -1107,7 +1107,6 @@ netcat-openbsd
 netcfg
 netkit-ftp
 netkit-telnet
-netplan.io
 network-console
 network-manager
 network-manager-applet
