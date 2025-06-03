@@ -733,7 +733,6 @@ libmbim
 libmd
 libmediaart
 libmime-lite-perl
-libmime-tools-perl
 libmime-types-perl
 libmldbm-perl
 libmodule-find-perl
@@ -759,7 +758,6 @@ libnet-dns-perl
 libnet-dns-sec-perl
 libnet-domain-tld-perl
 libnet-http-perl
-libnet-ip-perl
 libnet-ipv6addr-perl
 libnet-ldap-perl
 libnet-libidn-perl
@@ -1107,7 +1105,6 @@ netcat-openbsd
 netcfg
 netkit-ftp
 netkit-telnet
-netplan.io
 network-console
 network-manager
 network-manager-applet
@@ -1132,7 +1129,6 @@ nvme-stas
 ocfs2-tools
 oldsys-preseed
 olefile
-open-iscsi
 opencc
 openhpi
 openipmi
@@ -1219,7 +1215,6 @@ pollen
 pollinate
 poppler
 poppler-data
-popt
 popularity-contest
 power-profiles-daemon
 powerpc-utils
@@ -1342,7 +1337,6 @@ rhythmbox-plugin-alternative-toolbar
 rich
 roc-toolkit
 rootskel
-rpcbind
 rpcsvc-proto
 rrdtool
 rsync
@@ -1467,7 +1461,6 @@ underscore
 unicode-data
 unifont
 unittest2
-unixodbc
 unminimize
 unzip
 update-inetd
