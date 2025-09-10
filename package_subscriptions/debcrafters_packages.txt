@@ -565,6 +565,7 @@ libdv
 libdynaloader-functions-perl
 libe-book
 libeatmydata
+libebur128
 libecap
 libedit
 libei
