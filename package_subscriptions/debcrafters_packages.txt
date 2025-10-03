@@ -418,6 +418,7 @@ intel-processor-trace
 intltool-debian
 io-stringy
 ipp-usb
+ippusbxd
 iprutils
 iputils
 ipvsadm
@@ -720,6 +721,7 @@ liblockfile
 liblog-any-adapter-screen-perl
 liblog-any-perl
 liblouis
+liblouisutdml
 liblwp-mediatypes-perl
 liblwp-protocol-https-perl
 libmaa
