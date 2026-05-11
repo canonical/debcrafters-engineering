@@ -25,6 +25,7 @@ atkmm1.6
 attr
 autoconf
 autodep8
+automake
 automake-1.16
 automake-1.17
 automat
@@ -52,6 +53,8 @@ boost-defaults
 boost1.71
 boost1.74
 boost1.83
+boost1.88
+boost1.90
 bpfcc
 bpftrace
 brltty
@@ -96,11 +99,11 @@ cpio
 cracklib2
 cron
 culmus
-cups-pk-helper
 curl
 curtin
 dasbus
 dash
+dav1d
 db-defaults
 db5.3
 dbus-glib
@@ -143,6 +146,7 @@ dosfstools
 dotconf
 dpkg-repack
 dput
+dput-ng
 dracut
 duktape
 duplicity
@@ -264,6 +268,7 @@ gettext
 gexiv2
 gfxboot
 gfxboot-theme-ubuntu
+ghostscript
 giflib
 git
 glib-networking
@@ -277,6 +282,7 @@ gnulib
 gobject-introspection
 gparted
 gpgme1.0
+gpgmepp
 gpm
 graphene
 graphite2
@@ -391,6 +397,7 @@ libasyncns
 libatomic-ops
 libauthen-sasl-perl
 libavc1394
+libavif
 libayatana-appindicator
 libayatana-indicator
 libb-hooks-endofscope-perl
@@ -435,7 +442,9 @@ libcpanel-json-xs-perl
 libcrypt-openssl-bignum-perl
 libcrypt-openssl-random-perl
 libcrypt-openssl-rsa-perl
+libcrypt-urandom-perl
 libcue
+libcupsfilters
 libdaemon
 libdata-dpath-perl
 libdata-dump-perl
@@ -467,7 +476,6 @@ libdv
 libdynaloader-functions-perl
 libe-book
 libeatmydata
-libebur128
 libedit
 libei
 libemail-address-xs-perl
@@ -498,6 +506,7 @@ libfile-dirlist-perl
 libfile-fcntllock-perl
 libfile-find-rule-perl
 libfile-homedir-perl
+libfile-libmagic-perl
 libfile-listing-perl
 libfile-mimeinfo-perl
 libfile-rsyncp-perl
@@ -514,6 +523,7 @@ libfreezethaw-perl
 libfs
 libftdi1
 libfuture-perl
+libfyaml
 libgc
 libgd-graph-perl
 libgd-perl
@@ -712,6 +722,7 @@ libpng1.6
 libpod-constants-perl
 libpod-parser-perl
 libportal
+libppd
 libproc-processtable-perl
 libproc-waitstat-perl
 libproxy
@@ -884,10 +895,12 @@ libxxf86vm
 libyaml-libyaml-perl
 libyaml-perl
 libyaml-tiny-perl
+libyang
 libyuv
 libzstd
 licensecheck
 lilo-installer
+linkify-it-py
 lintian
 lirc
 lksctp-tools
@@ -949,6 +962,7 @@ mountmedia
 mouseemu
 mousetweaks
 mozjs128
+mozjs140
 mpclib3
 mpdecimal
 mpfr4
@@ -1000,10 +1014,7 @@ openoffice.org-thesaurus-pl
 openthesaurus
 optipng
 opus
-p11-kit
-packagekit
 pam
-pango1.0
 pangomm
 pangomm2.48
 paramiko
@@ -1045,6 +1056,7 @@ pcmciautils
 pcre2
 pcre3
 pcsc-lite
+pdfio
 perl
 perl-openssl-defaults
 pexpect
@@ -1077,8 +1089,8 @@ psycopg2
 ptouch-driver
 ptyprocess
 publicsuffix
-pulseaudio
 pv
+pxljr
 pyasn1
 pycairo
 pycurl
@@ -1089,6 +1101,7 @@ pyicu
 pyinotify
 pyparted
 pyserial
+python-charset-normalizer
 pyudev
 pyxdg
 pyxs
@@ -1109,17 +1122,21 @@ reiser4progs
 reiserfsprogs
 remmina
 rescue
+restic
 rhash
 rhythmbox
 rhythmbox-plugin-alternative-toolbar
 rich
 roc-toolkit
+roman-numerals
 rootskel
 rpcsvc-proto
 rsyslog
 rtkit
 rtmpdump
 ruby-net-telnet
+rust-rav1e
+rust-threecpio
 rygel
 s390-dasd
 s390-netdevice
@@ -1145,6 +1162,7 @@ sgml-data
 shadow
 shared-mime-info
 shotwell
+simdutf
 simple-scan
 simplejson
 skiboot
@@ -1206,6 +1224,7 @@ twolame
 tzdata
 tzsetup
 ubuntu-keyring
+uc-micro-py
 ucf
 uchardet
 udisks2
